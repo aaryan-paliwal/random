@@ -1,68 +1,77 @@
-<!-- PROFILE HEADER -->
-
-<h1 align="center">Hi 👋, I'm Aaryan Paliwal</h1>
+<!-- HERO BANNER -->
 
 <p align="center">
-Machine Learning Engineer building production-grade AI systems and scalable backend infrastructure
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aaryan%20Paliwal&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-Turning machine learning models into real-world systems powered by scalable infrastructure.
-</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+Systems+Builder;Production+ML+Pipelines;Backend+Infrastructure+for+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Building+Production+AI+Systems;ML+Pipelines+%7C+Backend+Infrastructure;Turning+Models+Into+Real+Products"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🧠 About Me
 
-* 🚀 Building **production-ready AI systems**
-* 🧠 Interested in **ML engineering, scalable AI infrastructure, and backend systems**
-* ⚙️ Turning **machine learning models into deployable products**
-* 📚 Currently exploring **MLOps and distributed ML systems**
+```python
+class AaryanPaliwal:
+
+    role = "Machine Learning Engineer"
+
+    focus = [
+        "Production AI Systems",
+        "ML Engineering",
+        "Backend Infrastructure"
+    ]
+
+    currently_learning = [
+        "MLOps",
+        "Distributed ML Systems",
+        "Scalable AI Infrastructure"
+    ]
+```
 
 ---
 
-# 🧠 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,java" />
+<img src="https://skillicons.dev/icons?i=python,js,java"/>
 </p>
 
 ### Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-Scikit-learn • Pandas • NumPy • Matplotlib
+Pandas • NumPy • Scikit-learn • Matplotlib
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,figma" />
+<img src="https://skillicons.dev/icons?i=git,linux,figma"/>
 </p>
 
 ---
@@ -71,75 +80,77 @@ Scikit-learn • Pandas • NumPy • Matplotlib
 
 ### 🔍 AI Fraud Detection Platform
 
-Real-time machine learning system that analyzes financial transactions and predicts fraud probability using a production ML inference pipeline.
+Real-time ML system scoring financial transactions and detecting fraud using production inference pipelines.
 
-**Tech:** Python • FastAPI • React • Node.js • MongoDB • XGBoost
+**Stack:** Python • FastAPI • React • Node.js • MongoDB • XGBoost
 
-🔗 GitHub: *Add repo link*
-🌐 Demo: *Add live demo*
+🔗 Repo: *Add link*
+🌐 Demo: *Add link*
 
 ---
 
 ### 🧠 MedTriage AI
 
-Deep learning powered system that analyzes MRI scans and prioritizes high-risk cases using automated tumor segmentation and risk scoring.
+Deep learning system analyzing MRI scans and prioritizing high-risk cases using automated tumor segmentation.
 
-**Tech:** PyTorch • MONAI • FastAPI • React • Node.js • MongoDB
+**Stack:** PyTorch • MONAI • FastAPI • React • Node.js • MongoDB
 
-🔗 GitHub: *Add repo link*
-🌐 Demo: *Add live demo*
+🔗 Repo: *Add link*
+🌐 Demo: *Add link*
 
 ---
 
 ### ⚙️ FlowOps
 
-Developer infrastructure platform with API gateway, authentication, rate limiting, request logging, and analytics dashboard.
+Developer infrastructure platform with API gateway, authentication, rate limiting, and analytics.
 
-**Tech:** Node.js • Express • Redis • MongoDB • React
+**Stack:** Node.js • Express • Redis • MongoDB • React
 
-🔗 GitHub: *Add repo link*
-🌐 Demo: *Add live demo*
-
----
-
-# 📚 Currently Learning
-
-• Scalable ML systems architecture
-• Model deployment & MLOps
-• Distributed AI infrastructure
+🔗 Repo: *Add link*
+🌐 Demo: *Add link*
 
 ---
 
-# 🤝 Connect With Me
-
-LinkedIn: *Add link*
-Portfolio: *Add link*
-Email: *Add email*
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaryan-paliwal&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaryan-paliwal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-paliwal&layout=compact&theme=tokyonight&hide_border=true" height="165">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-paliwal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=aaryan-paliwal&theme=tokyonight&hide_border=true">
-
+<img src="https://streak-stats.demolab.com/?user=aaryan-paliwal&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/aaryan-paliwal/aaryan-paliwal/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryan-paliwal&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/aaryan-paliwal/aaryan-paliwal/output/snake.svg"/>
+</p>
+
+---
+
+# 🤝 Connect
+
+LinkedIn → *Add link*
+Portfolio → *Add link*
+Email → *Add email*
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
