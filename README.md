@@ -1,100 +1,108 @@
-# Hi, I'm Aaryan Paliwal 👋
+<!-- PROFILE HEADER -->
 
-### Machine Learning Engineer building production-grade AI systems and scalable backend infrastructure
+<h1 align="center">Hi 👋, I'm Aaryan Paliwal</h1>
 
+<p align="center">
+Machine Learning Engineer building production-grade AI systems and scalable backend infrastructure
+</p>
+
+<p align="center">
 Turning machine learning models into real-world systems powered by scalable infrastructure.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+Systems+Builder;Production+ML+Pipelines;Backend+Infrastructure+for+AI" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### AI Fraud Detection Platform
-
-Real-time machine learning system that analyzes financial transactions and predicts fraud probability using a production-style ML inference pipeline.
-
-**Tech Stack:** Python • FastAPI • React • Node.js • MongoDB • Scikit-learn • XGBoost
-
-**Highlights**
-
-* Real-time ML inference API
-* Model versioning and metadata tracking
-* Fraud probability scoring instead of rule-based detection
-* Prediction logging for monitoring and audits
-
-🔗 GitHub: *Add repo link*
-🌐 Demo: *Add live demo*
+* 🚀 Building **production-ready AI systems**
+* 🧠 Interested in **ML engineering, scalable AI infrastructure, and backend systems**
+* ⚙️ Turning **machine learning models into deployable products**
+* 📚 Currently exploring **MLOps and distributed ML systems**
 
 ---
 
-### MedTriage AI — Medical Imaging Triage System
-
-Deep learning powered system that analyzes MRI scans and prioritizes high-risk cases using automated segmentation and risk scoring.
-
-**Tech Stack:** PyTorch • MONAI • FastAPI • React • Node.js • MongoDB
-
-**Highlights**
-
-* 3D U-Net model for tumor segmentation
-* Automated triage prioritization
-* ML inference service for real-time predictions
-* Prediction monitoring and logging
-
-🔗 GitHub: *Add repo link*
-🌐 Demo: *Add live demo*
-
----
-
-### FlowOps — API Gateway & Backend Infrastructure
-
-Developer infrastructure platform providing API key management, rate limiting, request logging, and analytics for backend services.
-
-**Tech Stack:** Node.js • Express • Redis • MongoDB • React
-
-**Highlights**
-
-* API gateway architecture
-* Authentication and rate limiting
-* Request analytics dashboard
-* Infrastructure-focused backend design
-
-🔗 GitHub: *Add repo link*
-🌐 Demo: *Add live demo*
-
----
-
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
 ### Languages
 
-Python • JavaScript • Java
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,java" />
+</p>
 
-### Machine Learning & Data
+### Machine Learning
 
-TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Matplotlib
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-### Backend & APIs
+Scikit-learn • Pandas • NumPy • Matplotlib
 
-FastAPI • Node.js • Express.js
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
 ### Frontend
 
-React • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
 
 ### Databases
 
-MongoDB • PostgreSQL • MySQL • Redis
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
 
-### Dev Tools
+### Tools
 
-Git • GitHub • Linux • Postman • Figma
-
-### Cloud / Platforms
-
-AWS (basic) • Google Cloud (basic)
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,figma" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Featured Projects
+
+### 🔍 AI Fraud Detection Platform
+
+Real-time machine learning system that analyzes financial transactions and predicts fraud probability using a production ML inference pipeline.
+
+**Tech:** Python • FastAPI • React • Node.js • MongoDB • XGBoost
+
+🔗 GitHub: *Add repo link*
+🌐 Demo: *Add live demo*
+
+---
+
+### 🧠 MedTriage AI
+
+Deep learning powered system that analyzes MRI scans and prioritizes high-risk cases using automated tumor segmentation and risk scoring.
+
+**Tech:** PyTorch • MONAI • FastAPI • React • Node.js • MongoDB
+
+🔗 GitHub: *Add repo link*
+🌐 Demo: *Add live demo*
+
+---
+
+### ⚙️ FlowOps
+
+Developer infrastructure platform with API gateway, authentication, rate limiting, request logging, and analytics dashboard.
+
+**Tech:** Node.js • Express • Redis • MongoDB • React
+
+🔗 GitHub: *Add repo link*
+🌐 Demo: *Add live demo*
+
+---
+
+# 📚 Currently Learning
 
 • Scalable ML systems architecture
 • Model deployment & MLOps
@@ -102,20 +110,36 @@ AWS (basic) • Google Cloud (basic)
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 LinkedIn: *Add link*
 Portfolio: *Add link*
 Email: *Add email*
 
-Always open to discussing machine learning systems, AI infrastructure, and interesting engineering problems.
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aaryan-paliwal&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-paliwal&layout=compact&theme=tokyonight&hide_border=true" height="165">
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=aaryan-paliwal&theme=tokyonight&hide_border=true">
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🐍 Contribution Graph
 
-![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryan-paliwal\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img src="https://raw.githubusercontent.com/aaryan-paliwal/aaryan-paliwal/output/snake.svg" alt="Snake animation" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-paliwal\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=aaryan-paliwal\&theme=tokyonight)
+---
